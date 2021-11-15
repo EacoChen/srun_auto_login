@@ -1,14 +1,17 @@
-fork自（目前404了）：https://coding.net/u/huxiaofan1223/p/jxnu_srun/git
+
+代码从这位大佬出copy，https://github.com/Mmx233/BitSrunLoginGo
+
+加密逻辑可以通过网页逆向获取。
 
 另有支持多平台（包括openwrt）的golang版本，请见：https://github.com/Mmx233/BitSrunLoginGo
 
-作者已经毕业，很难再更新代码了。如果校园网有变动，并且你有好的解决方案，还请提个pr哈。非常感谢~~ o(*￣▽￣*)ブ
+2021年11月15日该脚本仍然可用
 
 # 概述
 
-北京理工大学深澜校园网登录python脚本，可用于任何支持python的设备的网络命令行登录或命令行登录。
+北京理工大学、中国地质大学（北京）深澜校园网登录python脚本，可用于任何支持python的设备的网络命令行登录或命令行登录。
 
-详细文档见：[深澜校园网登录的分析与python实现-北京理工大学版](https://zhuanlan.zhihu.com/p/122556315)
+详细文档见这位大佬的知乎专栏：[深澜校园网登录的分析与python实现-北京理工大学版](https://zhuanlan.zhihu.com/p/122556315)
 
 # 文件说明
 
