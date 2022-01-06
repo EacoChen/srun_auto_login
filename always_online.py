@@ -26,8 +26,8 @@ def always_login(username, password, testip, checkinterval):
                 pass
         
 if __name__ == "__main__":
-    username = "2013010064"
-    password = "abc123456"
+    username = "ID"
+    password = "PW"
     testip = "114.114.114.114" # IP to test whether the Internet is connected
     checkinterval = 5 * 60
 
